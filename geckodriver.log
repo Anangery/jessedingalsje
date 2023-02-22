@@ -1,120 +1,52 @@
-1676920035287	geckodriver	INFO	Listening on 127.0.0.1:60401
-1676920035989	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofile5Tw0sf"
-2023-02-20 20:08:01.945 firefox-bin[60063:831853] Unable to install helper!
+1676985209725	geckodriver	INFO	Listening on 127.0.0.1:53313
+1676985210734	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofilexwTURl"
+1676985211245	Marionette	INFO	Marionette enabled
+1676985211294	Marionette	INFO	Listening on port 53320
+Read port: 53320
+1676985211383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1676985211387	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:53311","noProxy":[],"sslProxy":"127.0.0.1:53311"}
 UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
-1676920093554	geckodriver	INFO	Listening on 127.0.0.1:60476
-1676920094561	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofile3SUwPt"
-1676920094891	Marionette	INFO	Marionette enabled
-1676920095012	Marionette	INFO	Listening on port 60487
-Read port: 60487
-1676920095169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1676920095169	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60474","noProxy":[],"sslProxy":"127.0.0.1:60474"}
-UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofile3SUwPt/search.json.mozlz4", (void 0)))
-1676920128502	geckodriver	INFO	Listening on 127.0.0.1:60549
-1676920129507	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofile7yKLSz"
-1676920129848	Marionette	INFO	Marionette enabled
-1676920129891	Marionette	INFO	Listening on port 60556
-Read port: 60556
-1676920130015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1676920130019	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60547","noProxy":[],"sslProxy":"127.0.0.1:60547"}
-UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofile7yKLSz/search.json.mozlz4", (void 0)))
-1676920177670	geckodriver	INFO	Listening on 127.0.0.1:60641
-1676920178683	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofileTiY6iH"
-1676920179280	Marionette	INFO	Marionette enabled
-1676920179321	Marionette	INFO	Listening on port 60650
-Read port: 60650
-1676920179529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1676920179529	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60639","noProxy":[],"sslProxy":"127.0.0.1:60639"}
-UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofileTiY6iH/search.json.mozlz4", (void 0)))
-1676920200359	geckodriver	INFO	Listening on 127.0.0.1:60706
-1676920201371	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofileAlRND8"
-1676920201729	Marionette	INFO	Marionette enabled
-1676920201855	Marionette	INFO	Listening on port 60713
-Read port: 60713
-1676920201960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1676920201963	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60704","noProxy":[],"sslProxy":"127.0.0.1:60704"}
-UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofileAlRND8/search.json.mozlz4", (void 0)))
-1676920249882	Marionette	INFO	Stopped listening on port 60650
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
-1676920252230	Marionette	INFO	Stopped listening on port 60713
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
-1676920256810	geckodriver	INFO	Listening on 127.0.0.1:60789
-1676920257822	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofileZa809m"
-1676920258167	Marionette	INFO	Marionette enabled
-1676920258288	Marionette	INFO	Listening on port 60796
-Read port: 60796
-1676920258445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1676920258445	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60787","noProxy":[],"sslProxy":"127.0.0.1:60787"}
-UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofileZa809m/search.json.mozlz4", (void 0)))
-Exiting due to channel error.
-Exiting due to channel error.
-Exiting due to channel error.
-Exiting due to channel error.
-1676920320008	geckodriver	INFO	Listening on 127.0.0.1:60872
-1676920321025	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofilezj1EwM"
-1676920321374	Marionette	INFO	Marionette enabled
-1676920321500	Marionette	INFO	Listening on port 60879
-Read port: 60879
-1676920321554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1676920321558	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60870","noProxy":[],"sslProxy":"127.0.0.1:60870"}
-UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofilezj1EwM/search.json.mozlz4", (void 0)))
-1676920448753	geckodriver	INFO	Listening on 127.0.0.1:60981
-1676920449764	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofileuHTSZj"
-1676920450151	Marionette	INFO	Marionette enabled
-1676920450191	Marionette	INFO	Listening on port 60988
-Read port: 60988
-1676920450362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1676920450362	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60979","noProxy":[],"sslProxy":"127.0.0.1:60979"}
-UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofileuHTSZj/search.json.mozlz4", (void 0)))
-1676920461438	Marionette	INFO	Stopped listening on port 60879
-JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
-1676920463076	Marionette	INFO	Stopped listening on port 60988
-JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
-1676920697748	geckodriver	INFO	Listening on 127.0.0.1:61132
-1676920698756	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofileRO0FZU"
-1676920699120	Marionette	INFO	Marionette enabled
-1676920699242	Marionette	INFO	Listening on port 61141
-Read port: 61141
-1676920699302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1676920699306	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61130","noProxy":[],"sslProxy":"127.0.0.1:61130"}
-UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofileRO0FZU/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofilexwTURl/search.json.mozlz4", (void 0)))
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.magister.net."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.magister.net."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.magister.net."
-1676920705231	Marionette	INFO	Stopped listening on port 61141
-1676925924439	geckodriver	INFO	Listening on 127.0.0.1:63400
-1676925925385	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofilen691ze"
-1676925925966	Marionette	INFO	Marionette enabled
-1676925926023	Marionette	INFO	Listening on port 63407
-Read port: 63407
-1676925926105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1676925926109	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:63398","noProxy":[],"sslProxy":"127.0.0.1:63398"}
+1676985216168	Marionette	INFO	Stopped listening on port 53320
+1676985229844	geckodriver	INFO	Listening on 127.0.0.1:53495
+1676985230858	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofileYWb1dG"
+1676985231183	Marionette	INFO	Marionette enabled
+1676985231224	Marionette	INFO	Listening on port 53502
+Read port: 53502
+1676985231352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1676985231356	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:53493","noProxy":[],"sslProxy":"127.0.0.1:53493"}
 UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofilen691ze/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofileYWb1dG/search.json.mozlz4", (void 0)))
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.magister.net."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.magister.net."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.magister.net."
-1676925931478	Marionette	INFO	Stopped listening on port 63407
-1676978624061	geckodriver	INFO	Listening on 127.0.0.1:51639
-1676978625030	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofile5dzXVo"
-1676978625532	Marionette	INFO	Marionette enabled
-1676978625581	Marionette	INFO	Listening on port 51646
-Read port: 51646
-1676978625660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1676978625664	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:51637","noProxy":[],"sslProxy":"127.0.0.1:51637"}
+1676985236056	Marionette	INFO	Stopped listening on port 53502
+1676985293752	geckodriver	INFO	Listening on 127.0.0.1:53723
+1676985294761	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofileSz6iHK"
+1676985295160	Marionette	INFO	Marionette enabled
+1676985295199	Marionette	INFO	Listening on port 53730
+Read port: 53730
+1676985295372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1676985295372	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:53721","noProxy":[],"sslProxy":"127.0.0.1:53721"}
 UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofile5dzXVo/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofileSz6iHK/search.json.mozlz4", (void 0)))
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.magister.net."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.magister.net."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.magister.net."
-1676978630239	Marionette	INFO	Stopped listening on port 51646
+1676985299937	Marionette	INFO	Stopped listening on port 53730
+1677084036606	geckodriver	INFO	Listening on 127.0.0.1:58367
+1677084037573	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofileO5ZR2B"
+1677084038025	Marionette	INFO	Marionette enabled
+1677084038074	Marionette	INFO	Listening on port 58375
+Read port: 58375
+1677084038157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677084038161	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:58365","noProxy":[],"sslProxy":"127.0.0.1:58365"}
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/hv/41hbcbz92x17x88jzb53j1p00000gn/T/rust_mozprofileO5ZR2B/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.magister.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.magister.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.magister.net."
+1677084043146	Marionette	INFO	Stopped listening on port 58375
